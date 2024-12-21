@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/fb89fed3-ee8a-426c-96fb-4bf01255da40)
+
+
 # Exploring-Covid-19-Data
 Analyzing COVID-19 Trends and Insights with SQL' to succinctly capture the essence of the project.
 
