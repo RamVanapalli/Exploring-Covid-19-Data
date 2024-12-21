@@ -12,7 +12,7 @@ What This Project Demonstrates:
 */
 
 -- Query 1: Where do we begin? 🤔
--- Let’s start by **looking at rows where the continent is specified.** This gives us a clearer picture to work with.
+-- Let’s start by looking at rows where the continent is specified. This gives us a clearer picture to work with.
 SELECT *
 FROM PortfolioProject..CovidDeaths
 WHERE continent IS NOT NULL 
